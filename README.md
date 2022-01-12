@@ -1,7 +1,31 @@
-# Live-Trx-Monitor
-1 page PHP / JS Web based Live Transactions Monitoring Dashboard
-This is a one page live dashboard to monitor transactions of any kind of business.
-You can display your data in a table and graph.
-It is free to use.
-You only need to add your code to connect to your database in the inc/ folder in the connection.inc file.
-And add a few PHP lines in the index.php page to call your data.
+# Tailwind Admin
+
+Super simple admin panel using [Tailwind CSS](https://tailwindcss.com).
+
+[Live Demo](https://tailwindadmin.netlify.app)
+
+## Note
+For Tailwind CSS version < 1.0
+Please use 1.0.0 branch
+
+To get started, clone or download the project
+Then Open index.html.
+
+### Dashboard
+![Image of Yaktocat](dist/images/dashboard.png)
+
+### Login
+
+![Image of Yaktocat](dist/images/login.png)
+
+### Please report any issue or suggestions in issue tracker, all issues or suggestions will be promptly addressed. We would love a pull request.
+
+
+## TODO:
+ * Animation
+ * Datatables
+ * Widgets
+
+## IN PROGRESS:
+ * Vue Js based admin panel template
+ 
